@@ -1,0 +1,17 @@
+target
+.classpath
+.project
+.settings
+*.iml
+.idea
+.mymetadata
+.metadata
+RemoteSystemsTempFiles
+.externalToolBuilders
+_jsp/
+work/
+.buildpath
+.DS_Store
+**/logs/
+*.swp
+*~
